@@ -1,4 +1,4 @@
-# HTML Avançado — Módulo 3: Harmony Heights 🎶🎸🥁
+# HTML Avançado Módulo 3: Harmony Heights 🎶🎸🥁
 
 Este repositório contém um exemplo prático de página HTML5 que representa a **página oficial da banda fictícia Harmony Heights**.  
 O objetivo é demonstrar o uso de elementos multimídia, estrutura semântica e formulários de contato em uma aplicação realista.
